@@ -1,2 +1,4 @@
 # miniProject
+<<<<<<< HEAD
 WORLD
+
